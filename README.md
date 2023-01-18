@@ -9,7 +9,7 @@
 `pip install chatterbot-corpus`
 
 ## Pentru a functiona in Anaconda: 
-### Instalieaza environment in conda pentru Python 3.7
+### Instaleaza environment in conda pentru Python 3.7
 `conda create --name chatterbot_example python=3.7`
 
 ### Activare environment
