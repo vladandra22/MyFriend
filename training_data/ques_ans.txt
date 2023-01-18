@@ -1,0 +1,44 @@
+What are data structures?
+A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose.
+What is a data structure?
+A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose.
+Why are data structures used?
+Data structures make it easy for users to access and work with the data they need in appropriate ways. Most importantly, data structures frame the organization of information so that machines and humans can better understand it.
+Why do we use data structures?
+Data structures make it easy for users to access and work with the data they need in appropriate ways. Most importantly, data structures frame the organization of information so that machines and humans can better understand it.
+What is an algorithm?
+An algorithm is a step-by-step procedure that defines a set of instructions that must be carried out in a specific order to produce the desired result. Algorithms are generally developed independently of underlying languages, which means that an algorithm can be implemented in more than one programming language.
+What are the characteristics of an algorithm?
+Some of the characteristics of an algorithm are unambiguity, finiteness, effectiveness, language independence, input and output. Reply with a characteristic and I'll define it for you.
+Unambiguity
+Unambiguity: A perfect algorithm is defined as unambiguous, which means that its instructions should be clear and straightforward.
+Finiteness
+Finiteness: An algorithm must be finite. Finiteness in this context means that the algorithm should have a limited number of instructions(the instructions should be countable).
+Effectiveness
+Effectiveness: Because each instruction in an algorithm affects the overall process, it should be adequate.
+Language independence
+Language independence: An algorithm must be language-independent, which means that its instructions can be implemented in any language and produce the same results.
+Input
+Input: The data entered into a program, either by the programmer or digitally, is referred to as input. 
+Output
+Output: In order to keep the user informed about what is happening inside the program, a programmer may choose to include outputs. This is where the data from the program is shown to the user, either on screen or in the form of a physical output, such as printouts or signals.
+What is an array?
+An array stores a collection of items at adjoining memory locations. Items that are the same type are stored together so the position of each element can be calculated or retrieved easily by an index. Arrays can be fixed or flexible in length.
+What is a stack?
+A stack stores a collection of items in the linear order that operations are applied. This order is last in, first out(LIFO).
+What is a queue?
+A queue stores a collection of items like a stack. However, the operation order can only be first in, first out(FIFO).
+What is a linked list?
+A linked list stores a collection of items in a linear order. Each element, or node, in a linked list contains a data item, as well as a reference, or link, to the next item in the list.
+What is a doubly linked list?
+A doubly linked list is a variation of linked list in which navigation is possible in both ways, either forward and backward.
+What is a tree?
+A tree stores a collection of items in an abstract, hierarchical way. Each node is associated with a key value, with parent nodes linked to child nodes - or subnodes. There is one root node that is the ancestor of all the nodes in the tree.
+What is a heap?
+A heap is a tree-based structure in which each parent node's associated key value is greater than or equal to the key values of any of its children's key values.
+What is a graph?
+A graph stores a collection of items in a nonlinear fashion. Graphs are made up of a finite set of nodes, also known as vertices, and lines that connect them, also known as edges. These are useful for representing real-world systems, such as computer networks.
+What is a trie?
+A trie, also known as a keyword tree, is a data structure that stores strings as data items that can be organized in a visual graph.
+What is a hash table?
+A hash table, also known as a hash map, stores a collection of items in an associative array that plots keys to values. A hash table uses a hash function to convert an index into an array of buckets that contain the desired data item.
